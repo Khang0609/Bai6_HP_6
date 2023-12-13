@@ -1,0 +1,34 @@
+#first{
+    padding-top: 20px;
+}
+h1{
+    font-family: 'Black Ops One';
+    font-style: normal;
+    color: #FF4500;
+}
+p{
+    font-family: 'Merriweather';
+    font-style: normal;
+    color: #023C88;
+}
+div{
+    background-color:#FFC48C;
+}
+#ava{
+    height: 200px;
+}
+.padd{
+    padding-left: 20px;
+}
+#last{
+    padding-bottom: 20px;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: #023C88;
+}
+a:visited{
+    color: #023C88;
+}
